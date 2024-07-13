@@ -2,6 +2,7 @@
   "pre-install": {
   },
   "apt": {
+    "php-redis" : {"reinstall" : true}
   },
   "pip3": {
     "pyserial" : {"reinstall" : true},
