@@ -5,8 +5,6 @@
     "php-redis" : {"reinstall" : true}
   },
   "pip3": {
-    "pyserial" : {"reinstall" : true},
-    "requests" : {"reinstall" : true}
   },
   "npm": {
   },
